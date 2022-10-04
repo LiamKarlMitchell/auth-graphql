@@ -10,7 +10,6 @@
         }
     ],
     "require": {
-        "illuminate/support": "^8.0||^9",
         "laravel/sanctum": "^2.9||^2.14",
         "tjventurini/graphql-exceptions": "~0.0.6"
     },
